@@ -1,0 +1,4 @@
+ffmpeg
+vlc
+youtube_dl
+pafy
