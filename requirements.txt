@@ -1,4 +1,4 @@
 ffmpeg
-vlc
+python-vlc
 youtube_dl
 pafy
